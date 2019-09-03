@@ -1,4 +1,4 @@
-package br.edu.udc;
+ package br.edu.udc;
 
 public class PrimeiraClasse {
 
@@ -6,7 +6,7 @@ public class PrimeiraClasse {
 		int valor = 100;
 		System.out.println("Primeiro programa java!!!");	//forma de pular linha em java 
 			
-		System.out.printf("mostrando um número %d\n", valor); //forma de pular linha em C
+		System.out.printf("Mostrando um número %d\n", valor); //forma de pular linha em C
 	}
 
 }
